@@ -11,7 +11,7 @@ Building the server (on server)
 Starting the server (on server)
 --------------------------------------
 
-     $ docker run -p 8080:22 -dt tmux
+     $ docker run -p 8080:22 -dt pair
 
 Connecting to the server (everyone)
 -------------------------------------------
